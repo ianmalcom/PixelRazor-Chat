@@ -1,0 +1,27 @@
+html, body{
+	background-color:  #124f90;
+	margin-top: 10px;
+}
+
+#chat-panel {
+	margin-top: 40px;
+}
+
+.chat-text {
+	overflow-y: scroll;
+	height: 400px;
+	font-size: 12px;
+}
+
+.users-online {
+	overflow-y: scroll;
+	height: 400px;
+}
+
+.post-message {
+	margin-top: 10px;
+}
+
+.chat-check {
+	display: none;
+}
